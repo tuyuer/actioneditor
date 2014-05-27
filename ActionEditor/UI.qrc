@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>newaction.png</file>
+        <file>collisiondot.png</file>
+    </qresource>
+</RCC>
